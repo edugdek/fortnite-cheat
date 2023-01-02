@@ -1,4 +1,4 @@
-# Starlight Softwares
+# Eternity Softwares
 
 **External Fortnite Cheat written mostly in C++.**
 
